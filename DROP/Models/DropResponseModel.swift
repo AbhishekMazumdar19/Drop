@@ -1,6 +1,5 @@
 import Foundation
 import FirebaseFirestore
-import FirebaseFirestoreSwift
 
 // MARK: - Submission State
 enum SubmissionState: String, Codable {

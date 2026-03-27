@@ -1,6 +1,5 @@
 import Foundation
 import FirebaseFirestore
-import FirebaseFirestoreSwift
 
 // MARK: - Drop Status
 enum DropStatus: String, Codable {

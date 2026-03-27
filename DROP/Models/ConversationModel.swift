@@ -1,6 +1,5 @@
 import Foundation
 import FirebaseFirestore
-import FirebaseFirestoreSwift
 
 struct ConversationModel: Codable, Identifiable {
     @DocumentID var id: String?

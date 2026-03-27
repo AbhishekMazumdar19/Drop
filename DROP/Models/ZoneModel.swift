@@ -1,6 +1,5 @@
 import Foundation
 import FirebaseFirestore
-import FirebaseFirestoreSwift
 
 struct ZoneModel: Codable, Identifiable {
     @DocumentID var id: String?

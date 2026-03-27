@@ -1,6 +1,5 @@
 import Foundation
 import FirebaseFirestore
-import FirebaseFirestoreSwift
 
 struct CampusModel: Codable, Identifiable {
     @DocumentID var id: String?
